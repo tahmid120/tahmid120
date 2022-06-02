@@ -1,8 +1,5 @@
 
-The best Front Camera Hacking Tool(CamHack) By Sending A Link .
-
-It is very easy and very Fast 100% working Tool by The Devil 😈 ŤĮĞĘŖS
-Installation In Termux [commands]
+The best Front Camera Hacking Tool(CamHack)
 $ apt update
 $ apt upgrade -y
 $ pkg install git -y
